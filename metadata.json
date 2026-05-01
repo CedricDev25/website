@@ -1,0 +1,6 @@
+{
+  "name": "AI Budget Coach",
+  "description": "A personalized finance assistant that analyzes your spending and helps you reach your savings goals using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
